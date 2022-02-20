@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Figma project Wiew Link
 
 https://www.figma.com/file/8e7e6MdujR7gZ6X9q7oy8p/Care-Assistance-%7C-Service-%C3%A0-la-personne?node-id=0%3A1
+=======
+
+# Figma project view link
+https://www.figma.com/file/8e7e6MdujR7gZ6X9q7oy8p/Care-Assistance-%7C-Service-%C3%A0-la-personne?node-id=0%3A1 
+>>>>>>> 92981a52431996c733dce65ba4278c956efdfe06
 
 # Link to sources
 
