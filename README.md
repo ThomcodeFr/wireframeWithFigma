@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-# Figma project Wiew Link
+# Projet : Création d'une maquette via FIGMA
 
-https://www.figma.com/file/8e7e6MdujR7gZ6X9q7oy8p/Care-Assistance-%7C-Service-%C3%A0-la-personne?node-id=0%3A1
-=======
+# Rendu projet
+![Aperçu du projet](/apercu.jpg 'Aperçu')
 
-# Figma project view link
-https://www.figma.com/file/8e7e6MdujR7gZ6X9q7oy8p/Care-Assistance-%7C-Service-%C3%A0-la-personne?node-id=0%3A1 
->>>>>>> 92981a52431996c733dce65ba4278c956efdfe06
 
-# Link to sources
+
+## lien vers le projet sur FIGMA
+[ThomCodeFr - FIGMA ](https://www.figma.com/file/8e7e6MdujR7gZ6X9q7oy8p/Care-Assistance-%7C-Service-%C3%A0-la-personne?node-id=0%3A1 )
+
+# Link to sources (english version)
 
 Any Commercial uses, only School project.
 
